@@ -5,6 +5,7 @@ HGFM : A Hierarchical Grained and Feature Model for Acoustic Emotion Recgnition.
 
 Please cite our paper if you find our work useful for your research:
 
+'''
 @inproceedings{xu2020hgfm,
   title={HGFM: A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition},
   author={Xu, Yunfeng and Xu, Hua and Zou, Jiyun},
@@ -13,3 +14,4 @@ Please cite our paper if you find our work useful for your research:
   year={2020},
   organization={IEEE}
 }
+'''
