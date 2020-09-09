@@ -28,7 +28,7 @@ numpy | 1.18.5
 ## Usage
 ### Download the dataset feature
 1. [Baidu Yun Disk](https://pan.baidu.com/s/1CX3XAQMaGyNtPPOcOtw7Hg)[code: 6rez]
-2. [Google Drive]
+2. [Google Drive](https://drive.google.com/file/d/1O4-HQb2vdisE4OJ7qHMad86HVdpl8XJt/view?usp=drivesdk)
 ### Run the Code
 * Clone this repo and run the exe.sh
 ```
