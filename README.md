@@ -14,4 +14,19 @@ Please cite our paper if you find our work useful for your research:
   organization={IEEE}}
 ```
 ## Model
-![HGFM framework]
+![HGFM framework](https://github.com/zjyyyy/HGFM/blob/master/model.png)
+## requirements
+
+Package  | Version
+python | 3.8.3 
+tqdm | 4.47.0  
+matplotlib | 3.2.2
+numpy | 1.18.5
+## Usage
+### Run the Code
+* Clone this repo and run the exe.sh
+```
+git clone https://github.com/thuiar/MMSA  
+cd HGFM
+bash exe.sh
+```
