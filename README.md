@@ -4,6 +4,7 @@ Pytorch implementation for codes in HGFM : A Hierarchical Grained and Feature Mo
 HGFM : A Hierarchical Grained and Feature Model for Acoustic Emotion Recgnition. You can find this paper in [IEEE Xplore](https://ieeexplore.ieee.org)
 
 Please cite our paper if you find our work useful for your research:
+
 @inproceedings{xu2020hgfm,
   title={HGFM: A Hierarchical Grained and Feature Model for Acoustic Emotion Recognition},
   author={Xu, Yunfeng and Xu, Hua and Zou, Jiyun},
