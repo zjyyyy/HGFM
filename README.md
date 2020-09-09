@@ -17,12 +17,18 @@ Please cite our paper if you find our work useful for your research:
 ![HGFM framework](https://github.com/zjyyyy/HGFM/blob/master/model.png)
 ## requirements
 
-Package  | Version
+Package  | Version 
+ ---- | -----
+torch | 1.4.0
 python | 3.8.3 
 tqdm | 4.47.0  
 matplotlib | 3.2.2
 numpy | 1.18.5
+
 ## Usage
+### Download the dataset feature
+1. [Baidu Yun Disk](https://pan.baidu.com/s/1CX3XAQMaGyNtPPOcOtw7Hg)[code: 6rez]
+2. [Google Drive]
 ### Run the Code
 * Clone this repo and run the exe.sh
 ```
